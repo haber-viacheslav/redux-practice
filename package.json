@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "redux-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://haber-viacheslav.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://haber-viacheslav.github.io/redux-practice/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.2",
