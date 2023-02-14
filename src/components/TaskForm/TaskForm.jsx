@@ -9,7 +9,7 @@ export const TaskForm = () => {
   const handleSubmit = event => {
     event.preventDefault();
     const form = event.target;
-    const value = form.elements.text.value;
+    const value = form.elements.text.value.trim();
     if (!value) {
       return;
     }
